@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <title>Flutter Code Reviewer Agent - README</title>
 <style>
