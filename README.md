@@ -37,8 +37,8 @@
 <h2>🖥️ Terminal Output</h2>
 <img src="test_screenshots/terminal.PNG" />
 <img src="test_screenshots/terminal2.PNG" />
-<img src="test_screenshots/terminal3.PNG" />
-<img src="test_screenshots/terminal4.PNG" />
+<img src="test_screenshots/terminal 3.PNG" />
+<img src="test_screenshots/terminal 4.PNG" />
 </div>
 
 <div class="section">
