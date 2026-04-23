@@ -1,53 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<title>Flutter Code Reviewer Agent - README</title>
-<style>
-body{
-  margin:0;
-  font-family: Arial, sans-serif;
-  background:#0b0f1a;
-  color:#e6e6e6;
-  line-height:1.6;
-}
-.container{
-  max-width:1000px;
-  margin:auto;
-  padding:40px;
-}
-h1,h2,h3{
-  color:#00d4ff;
-}
-code, pre{
-  background:#111827;
-  padding:10px;
-  border-radius:8px;
-  display:block;
-  overflow-x:auto;
-}
-.section{
-  margin-bottom:50px;
-  padding-bottom:20px;
-  border-bottom:1px solid #1f2937;
-}
-img{
-  width:100%;
-  border-radius:10px;
-  margin-top:10px;
-  border:1px solid #1f2937;
-}
-.badge{
-  display:inline-block;
-  padding:5px 10px;
-  margin:5px;
-  background:#1f2937;
-  border-radius:6px;
-  font-size:12px;
-}
-</style>
-</head>
-<body>
-<div class="container">
 
 <h1>🔍 Flutter Code Reviewer Agent</h1>
 <p>An AI-powered terminal agent that automatically reviews Flutter/Dart code, detects vulnerabilities, and applies fixes using Groq LLaMA 3.3 70B.</p>
