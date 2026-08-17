@@ -426,7 +426,6 @@ def run_reviewer(project_path: Path):
             all_code = "".join([read_dart_file(f) for f in files])
             auto_install_packages(code=all_code, project_path=project_path)
 
-            # ── ✅ التعديل: اسأل المستخدم قبل الفيكس ──────────────────────────
             has_issues = any(x in review_reply for x in ["🐛", "🔒", "⚡", "🏗️", "issue", "error", "missing", "vulnerability"])
             if has_issues:
                 fix_confirm = input(f"\n  {c('🔧 Issues found! Apply fixes? (y/n):', Color.YELLOW)} ").strip().lower()
